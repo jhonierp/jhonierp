@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is jhonier pasos
 =====================================================================================================================================
 
-desde que he estado en el itp hemos aprendido un poco de html de css de c++ hasta el , lenguaje dart programanado en flutter y un poco de appshet hasta el punto de ahora que vemos python en el framework de django
+Desde que comencé en el ITP, he tenido la oportunidad de aprender diversos lenguajes y herramientas. Empecé con HTML, CSS y C++, luego avancé al lenguaje Dart para programar en Flutter, e incluso exploré un poco de AppSheet. Actualmente, estoy profundizando en Python junto con el framework Django. Además, ahora tengo conocimientos básicos de TypeScript, lo que ha enriquecido aún más mi formación.
 <h3 align="center">A passionate about knowledge</h3>
 
 
