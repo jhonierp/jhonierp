@@ -14,7 +14,6 @@ Desde que inicié mi formación en el ITP, he tenido la oportunidad de aprender 
 
 - ✉️ Puedes escribirme a: [jhonierpasos9@gmail.com](mailto:jhonierpasos9@gmail.com)
 - 😎 Nivel intermedio-avanzado en Git y GitHub
-- 🧠 Actualmente estudiando programación con Django
 
 ---
 
