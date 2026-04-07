@@ -1,51 +1,136 @@
-# ¡Hola! 👋 Soy Jhonier Pasos
+<div align="center">
 
-![Welcome gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Jhonier+Pasos+%F0%9F%91%8B;Backend+Developer+%7C+NestJS+%2B+TypeScript;Building+real+things%2C+learning+always." alt="Typing SVG" />
 
-### 💡 Apasionado por el conocimiento y en constante evolución
+<br/>
 
-Desde que inicié mi formación en el ITP, he tenido la oportunidad de aprender múltiples lenguajes y herramientas de desarrollo. Comencé con HTML, CSS y C++, luego pasé a trabajar con Dart en Flutter y exploré AppSheet. Actualmente, estoy profundizando mis conocimientos en **Python** junto al framework **Django** y también he adquirido nociones básicas de **TypeScript**, lo que ha enriquecido aún más mi perfil.
+**`Backend Developer · NestJS · TypeScript · Colombia 🇨🇴`**
 
-<h3 align="center">🚀 Siempre aprendiendo, siempre creando</h3>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhonier%20Pasos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonier-pasos-71aa80309)
+[![GitHub](https://img.shields.io/badge/GitHub-jhonierp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhonierp)
+[![Email](https://img.shields.io/badge/Email-jhonierpasos9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonierpasos9@gmail.com)
+
+</div>
 
 ---
 
-### 📫 Contacto
+## 👨‍💻 About me / Sobre mí
 
-- ✉️ Puedes escribirme a: [jhonierpasos9@gmail.com](mailto:jhonierpasos9@gmail.com)
-- 😎 Nivel intermedio-avanzado en Git y GitHub
+```typescript
+const jhonier = {
+  role:       "Backend Developer",
+  focus:      ["NestJS", "TypeScript", "REST APIs", "PostgreSQL"],
+  learning:   ["Docker", "Redis", "Clean Architecture", "AWS"],
+  building:   ["DocGen", "GTC-45 SaaS", "API Gateway con Microservicios"],
+  degree:     "Ingeniería en Sistemas · Uniputumayo",
+  location:   "Mocoa, Putumayo · Colombia 🇨🇴",
+  available:  true,
+};
+```
+
+> Ingeniero en Sistemas graduado, actualmente trabajando como **desarrollador backend** con foco en **NestJS y TypeScript**. Me interesa construir APIs limpias, escalables y bien documentadas — y resolver problemas reales con software. Creo que el mejor código es el que otros pueden entender y mantener.
+
+> Systems Engineer focused on **backend development** with NestJS and TypeScript. I care about clean architecture, real-world problem solving, and writing code that lasts.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 🛠️ Stack principal / Main stack
 
+**Backend**
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="36" height="36"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+**Bases de datos / Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**DevOps & Herramientas / Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+**También he trabajado con / Also worked with**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Redes Sociales
+## 🚧 Proyectos en construcción / Currently building
 
-<p align="left">
-  <a href="https://github.com/jhonierp" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
-</p>
+### 🤖 DocGen
+> Generador de documentación para proyectos NestJS/TypeScript potenciado con IA. Sube tu proyecto y obtén documentación completa automáticamente.
+
+`NestJS` `Anthropic API` `TypeScript` `React` — 🔨 En desarrollo
 
 ---
 
-> _"El conocimiento no se detiene. Yo tampoco."_ 💻✨
+### 📋 GTC-45 Risk Matrix Generator ⭐
+> SaaS que automatiza la generación de matrices de identificación de peligros y valoración de riesgos bajo la metodología **GTC-45**, obligatoria para todas las empresas en Colombia según el Decreto 1072 de 2015 y la Resolución 0312 de 2019.
+>
+> La IA identifica peligros según el sector empresarial. Toda la valoración (ND × NE = NP → NP × NC = NR) es cálculo determinista según la norma. Resultado: un **PDF listo para el Ministerio de Trabajo o una ARL**, generado en minutos.
+
+`NestJS` `PostgreSQL` `Anthropic API` `PDF Generation` `Wompi` `React` — 📋 Próximo
+
+---
+
+### 🔀 API Gateway con Microservicios
+> Gateway central que orquesta microservicios de usuarios, productos y órdenes con comunicación asíncrona vía RabbitMQ. Todo el entorno levanta con un solo `docker-compose up`.
+
+`NestJS Microservices` `RabbitMQ` `Docker Compose` `PostgreSQL` — 📋 Próximo
+
+---
+
+> Los repositorios se irán publicando conforme los proyectos alcancen un estado presentable. **Calidad sobre cantidad.**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhonierp&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 Actualmente aprendiendo / Currently learning
+
+- 🏗️ **Clean Architecture** aplicada a NestJS
+- 🐳 **Docker** y containerización de APIs
+- ☁️ **AWS** — Cloud Practitioner como primer objetivo
+- 🔁 **CI/CD** con GitHub Actions
+- 📨 **BullMQ + Redis** para procesamiento asíncrono
+- 🌐 **Inglés técnico** para documentación y entrevistas internacionales
+
+---
+
+<div align="center">
+
+*"El código que no se entiende, no se mantiene. El que no se mantiene, no escala."*
+
+<br/>
+
+**Open to remote opportunities · Abierto a oportunidades remotas**
+
+</div>
